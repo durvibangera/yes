@@ -23,7 +23,6 @@ E Books Updated_md/
 # Reports (can be regenerated)
 comparison_report.json
 data_quality_report.json
-implementation_plan.md
 
 # IDEs
 .vscode/
