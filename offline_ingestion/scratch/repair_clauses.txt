@@ -1,0 +1,362 @@
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_784 | PATH: ASME 2019\ASME II PART A1 (2019).md
+peciﬁcation. (See 17.2.) Fabricators should be aware that cracks may
+initiate upon bending a sheared or burned edge during the fabrication
+process; this is not considered to be a fault of the steel but is rather a
+function of the induced cold-work or the heat-affected zone.
+The conditioning requirements in 9.2, 9.3, and 9.4 limit the condition-
+ing allowed to be performed by the manu
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_2283 | PATH: ASME 2019\ASME II PART A1 (2019).md
+ shown in Table X2.1.
+9.3 Electric-Resistance-Welded Pipe — A test specimen
+at least 4 in. [100 mm] in length shall be ﬂattened cold
+between parallel plates in three steps, with the weld located
+either 0° or 90° from the line of direction of force as
+required in 9.3.1 or 9.3.2, whichever is applicable. During
+the ﬁrst step, which is a test for ductility of the weld, no
+cracks or 
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_2291 | PATH: ASME 2019\ASME II PART A1 (2019).md
+-2019
+SA-53/SA-53M
+145
+the ﬂattening test specimens required by 9.3.1 or 9.3.2,
+whichever is applicable, either prior to or after such hot
+reducing.
+9.4 Continuous-Welded Pipe — A test specimen at least
+4 in. [100 mm] in length shall be ﬂattened cold between
+parallel plates in three steps. The weld shall be located at
+90° from the line of direction of
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_3989 | PATH: ASME 2019\ASME II PART A1 (2019).md
+oked.
+9.3
+Each coil shall be one continuous length of wire
+properly coiled. Welds made prior to cold drawing are
+permitted. If unmarked welds are unacceptable to the pur-
+chaser, special arrangements should be made with the man-
+ufacturer at the time of the purchase.
+9.4 Appearance — The surface shall be smooth and free
+of defects such as seams, pits
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_4130 | PATH: ASME 2019\ASME II PART A1 (2019).md
+er and Pressure Vessel Code, No.
+A2 may be used for Grade WPCW.
+8.4 The molybdenum and chromium content of the depos-
+ited weld metal of alloy steel ﬁttings shall be within the same
+percentage range as permitted for the base metal.
+8.5 Weld metal used in the construction of WP24 ﬁttings
+shall be of the composition: 2.25 % Cr, 1 % Mo, 0.25 % V.
+9. Tensile Requirements
+9.1 The tensile properties of
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_4134 | PATH: ASME 2019\ASME II PART A1 (2019).md
+terial in the same heat
+treat condition in any thickness up to and including the tested
+thickness.
+9.3 When cold-formed ﬁttings are furnished, samples of the
+raw material shall be normalized or stress relieved as required
+in 7.2.4. Tension tests conducted on these heat-treated samples
+shall be considered to be the tensile properties of the cold-
+formed ﬁttings.
+9.4 Records of the tension tests s
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_4135 | PATH: ASME 2019\ASME II PART A1 (2019).md
+old-
+formed ﬁttings.
+9.4 Records of the tension tests shall be certiﬁcation that the
+material of the ﬁtting meets the tensile requirements of this
+speciﬁcation provided the heat treatments are the same. If the
+raw material was not tested, or the ﬁtting is not in the same
+condition of heat treatment, the ﬁtting manufacturer shall
+perform the required test on material representative of the
+ﬁni
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_4145 | PATH: ASME 2019\ASME II PART A1 (2019).md
+In addition to the requirements for weld repair of
+Speciﬁcation A960/A960M, weld repairs to WP91 Type 1 and
+Type 2 ﬁttings shall meet the requirements of 6.3.1.
+15.3 In addition to the requirements for weld repair of
+Speciﬁcation A960/A960M, weld repairs to WP24 ﬁttings
+shall meet the requirements of 8.5. The recommended preheat
+and interpass temperature ranges are 200 to 400 °F [95 to 205
+°
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_5154 | PATH: ASME 2019\ASME II PART A1 (2019).md
+ion
+under load.
+9.
+Workmanship, Finish, and Appearance
+9.1 Surface Finish — Unless otherwise speciﬁed, the
+bars shall have a commercial bright smooth surface ﬁnish
+consistent with the cold ﬁnishing operations speciﬁed in
+6.4.
+9.2
+Bars that are thermal treated after cold ﬁnishing
+may have a discolored or oxidized surface.
+9.3 Oiling — The bars shall be given a surface coating
+of 
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_5285 | PATH: ASME 2019\ASME II PART A1 (2019).md
+PS 6, and whose nominal wall thickness equals or exceeds
+0.200, it is permitted to make weld repairs to the weld seam
+with the addition of compatible ﬁller metal using the same
+procedures speciﬁed for plate defects in the section on Repair
+by Welding of Speciﬁcation A999/A999M.
+15.2 Weld repairs of the weld seam shall not exceed 20 % of
+the seam length.
+15.3 Weld repairs shal
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_6762 | PATH: ASME 2019\ASME II PART A1 (2019).md
+71.6
+45.0
+24.3
+119 (820)
+23
+254
+243
+266
+62.0
+71.0
+44.0
+23.1
+117 (810)
+22
+248
+237
+261
+61.5
+70.5
+43.2
+22.0
+115 (790)
+21
+243
+231
+256
+61.0
+69.9
+42.3
+20.7
+112 (770)
+20
+238
+226
+251
+60.5
+69.4
+41.5
+19.6
+110 (760)
+NOTE:
+(A) This table gives the approximate interrelationships of hardness values and approximate tensile strength of steels. It is possible that steels of
+various compos
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A1__2019__md_7049 | PATH: ASME 2019\ASME II PART A1 (2019).md
+nit stress determinations for yield and
+tensile strength on full-size specimens shall be based on
+the nominal bar area.
+A9.4 Bend Testing
+A9.4.1
+Bend tests shall be made on specimens of
+sufﬁcient length to ensure free bending and with apparatus
+which provides:
+A9.4.1.1
+Continuous and uniform application of
+force throughout the duration of the bending operation,
+A9.4.1.2 Unrestric
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_2015 | PATH: ASME 2019\ASME II PART A2 (2019).md
+9
+SA-522/SA-522M
+891
+TABLE 1
+CHEMICAL REQUIREMENTS
+Composition, %
+Type I
+Type II
+Carbon, max
+0.13
+0.13
+Manganese, max
+0.90
+0.90
+Phosphorus, max
+0.025
+0.025
+Sulfur, max
+0.025
+0.025
+SiliconA
+0.15–0.30
+0.15–0.30
+Nickel
+8.5–9.5
+7.5–8.5
+A When vacuum carbon deoxidation is used, the maximum silicon
+content shall be 0.10%.
+TABLE 2
+TENSILE REQUIREMENTS AT ROOM TEMPERATURE
+Tensile strength, min., ksi [
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_2177 | PATH: ASME 2019\ASME II PART A2 (2019).md
+irements
+19.1 Seamless and Centrifugally Cast Pipe — A section
+of pipe not less than 21⁄2 in. [63 mm] in length shall be
+ﬂattened cold between parallel plates in two steps. During
+the ﬁrst step, which is a test for ductility, no cracks or
+breaks on the inside, outside, or end surfaces, except as
+provided for in 19.3.4, shall occur until the di
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_2181 | PATH: ASME 2019\ASME II PART A2 (2019).md
+ be ﬂattened cold
+between parallel plates in two steps. The weld shall be
+placed 90° from the direction of the applied force (at the
+point of maximum bending). During the ﬁrst step, which
+is a test for ductility, no cracks or breaks on the inside or
+outside surfaces, except as provided for in 19.3.4, shall
+occur until the distance between the plates is less than the
+value o
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_3020 | PATH: ASME 2019\ASME II PART A2 (2019).md
+ndeformed areas.
+9.2.1.3
+Luster ﬁnish is a smooth bright ﬁnish pro-
+duced by rolling on ground rolls and is suitable for decora-
+tive painting or plating with additional special surface
+preparation by the user. The luster may not be retained
+after fabrication; therefore, the formed parts will require
+surface preparation to make them suitable for bright
+plating.
+9.3 Cold-rolled carbon sheet, w
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_3021 | PATH: ASME 2019\ASME II PART A2 (2019).md
+itable for bright
+plating.
+9.3 Cold-rolled carbon sheet, when intended for unex-
+posed applications, is not subject to limitations on degree
+and frequency of surface imperfections, and restri
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_5605 | PATH: ASME 2019\ASME II PART A2 (2019).md
+ducer shall demon-
+strate that the cooling rate of the test specimen location is
+no faster than that of specimens taken by the method
+described in S15.3.1.
+S16.
+Weld Repair Charts
+S16.1
+Major weld repairs shall be documented by
+means of sketches or photographs, or both, showing the
+location and major dimensions of cavities prepared for
+welding. Documentation shall be submitte
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_6009 | PATH: ASME 2019\ASME II PART A2 (2019).md
+8 in. [4.8 mm] or more, weld
+repairs made with the addition of compatible ﬁller metal may
+be made to the weld seam with the same procedures speciﬁed
+for plate defects in the section on Repair by Welding of
+Speciﬁcation A999/A999M.
+15.2 Weld repairs of the weld seam shall not exceed 20 % of
+the seam length.
+15.3 Except as allowed by 15.3.1, weld repairs shall be
+made only with the gas tun
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_6010 | PATH: ASME 2019\ASME II PART A2 (2019).md
+ed by 15.3.1, weld repairs shall be
+made only with the gas tungsten-arc welding process using the
+same classiﬁcation of bare ﬁlter rod qualiﬁed to the most
+current AWS Speciﬁcation A5.9 as the grade of pipe being
+repaired as given in Table 4.
+15.3.1 Subject to approval by the purchaser, it shall be
+permissible for weld repairs to be made with the gas tungsten-
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_6901 | PATH: ASME 2019\ASME II PART A2 (2019).md
+point of interest, or 1⁄16 in.
+[1.6 mm], whichever is less, except as deﬁned in 15.3.4.
+15.3.2
+Surface discontinuities deeper than 5% of
+the speciﬁed nominal wall thickness, except as deﬁned in
+15.3.3 and 15.3.4, shall be removed by the manufacturer
+by machining or grinding to sound metal, and the repaired
+areas shall blend smoothly into the contour of the ﬁnished
+ﬁtting.
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_6903 | PATH: ASME 2019\ASME II PART A2 (2019).md
+3.3 Surface checks (ﬁsh scale) deeper than 1⁄64 in.
+[0.4 mm] shall be removed.
+15.3.4 Mechanical marks deeper than 1⁄16 in. [1.6 mm]
+shall be removed.
+15.3.5 When the removal of a surface discontinuity
+reduces the wall thickness below the speciﬁed minimum
+wall thickness at any point, the ﬁtting shall be subject to
+rejection or to repair as provided in
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_6978 | PATH: ASME 2019\ASME II PART A2 (2019).md
+ as follows:
+CE p C + Mn/6 + (Cr + Mo + V)/5 + (Ni + Cu)/15
+S78.4 Vanadium and Niobium maximum content based
+on heat analysis shall be:
+Maximum Vanadium p 0.02 wt%
+Maximum Niobium p 0.02 wt%
+Maximum Vanadium plus Niobium p 0.03 wt% (Note
+Niobium p Columbium)
+S78.5 The maximum composition based on heat analy-
+sis of Ni + Cu shall be 0.15 wt%.
+S78.6 The minimum C content based on heat analysis
+shal
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_7915 | PATH: ASME 2019\ASME II PART A2 (2019).md
+nd over in outside diameter and
+0.220 in. [5.6 mm] and over in thickness, the variation in wall
+thickness in any one cross section of any one tube shall not
+exceed the following percentage of the actual mean wall at the
+section. The actual mean wall is deﬁned as the average of the
+thickest and thinnest wall in that section.
+Seamless tubes ±10 %
+Welded tubes ±5 %
+9.3 When cold-ﬁnished tubes as o
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_7916 | PATH: ASME 2019\ASME II PART A2 (2019).md
+ubes ±5 %
+9.3 When cold-ﬁnished tubes as ordered require wall thick-
+nesses 3⁄4 in. [19.1 mm] or over, or an inside diameter 60 % or
+less of the outside diameter, the permitted variations in wall
+thickness for hot-ﬁnished tubes shall apply.
+10. Permitted Variations in Outside Diameter
+10.1 Except as provided in 10.2.1, 10.3, and 25.10.4,
+variations from the sp
+============================================================
+CHUNK ID: ASME_2019_ASME_II_PART_A2__2019__md_8123 | PATH: ASME 2019\ASME II PART A2 (2019).md
+-furnace process.
+4.2 Heading Practice:
+4.2.1
+Methods other than upsetting or extrusion, or
+both, are permitted only by special agreement between
+purchaser and producer.
+4.2.2
+Class 4.6 may be hot or cold headed at the
+option of the manufacturer.
+4.2.3
+Classes 4.8, 5.8, 8.8, 8.8.3, 9.8, 10.9, 10.9.3,
+and 12.9 bolts and screws in nominal thread diameters up
+to M20 inclusi
+============================================================
+CHUNK ID: ASME_2019_ASME_IX__2019__md_1584 | PATH: ASME 2019\ASME IX (2019).md
+--
+
+
+---
+
+QW-408.5
+The addition or deletion of backing gas, a
+change in backing gas composition, or a change in the spe-
+cified flow rate range of the backing gas.
+QW-408.6
+A change of environment shielding such as
+from vacuum to an inert gas, or vice versa.
+QW-408.7
+A change in the type of fuel gas.
+QW-408.8
+The omission of backing gas except that
+requali

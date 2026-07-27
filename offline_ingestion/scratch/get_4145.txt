@@ -1,0 +1,18 @@
+=== ASME_2019_ASME_II_PART_A1__2019__md_4145 ===
+In addition to the requirements for weld repair of
+Speciﬁcation A960/A960M, weld repairs to WP91 Type 1 and
+Type 2 ﬁttings shall meet the requirements of 6.3.1.
+15.3 In addition to the requirements for weld repair of
+Speciﬁcation A960/A960M, weld repairs to WP24 ﬁttings
+shall meet the requirements of 8.5. The recommended preheat
+and interpass temperature ranges are 200 to 400 °F [95 to 205
+°
+=== ASME_2019_ASME_II_PART_A1__2019__md_4146 ===
+t
+and interpass temperature ranges are 200 to 400 °F [95 to 205
+°C]. Weld repairs to WP24 ﬁttings shall be post weld heat
+treated at 1350 to 1470 °F [730 to 800 °C], except that preheat
+and post weld heat treatment are not required for WP24 ﬁttings
+whose section thickness does not exceed 0.500 in. [12.7 mm].
+Copyright ASME International (BPVC) 
+--`,```,,,,,````,`,``,,`,,`,`-`-`,,`,,`,`,,`---

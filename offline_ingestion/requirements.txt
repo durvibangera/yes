@@ -1,0 +1,13 @@
+gliner
+transformers
+FlagEmbedding
+pymilvus
+rank_bm25
+rapidfuzz
+neo4j
+langchain-text-splitters
+pydantic-settings
+python-dotenv
+torch
+tqdm
+ollama

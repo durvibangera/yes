@@ -1,0 +1,455 @@
+=== DENSE ONLY RETRIEVAL ===
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4059
+tion for
+service at moderate and elevated temperatures. Fittings differ-
+ing from these ASME and MSS standards shall be furnished in
+accordance with Supplementary Requirement S58 of Speciﬁ-
+cation A960/A960M.
+1.2 Optional supplementary requirements are provided for
+ﬁttings where a greater degree of examination is desired. When
+desired, o
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_7638
+ by removal to sound metal and
+rewelding.
+5.3 Heat Treatment:
+5.3.1 Except as provided in 5.3.2, all pipe shall be furnished
+in the heat-treated condition. For H grades and S30815,
+shall consist of heating the material to a minimum temperature
+of 1900 °F [1040 °C], except for S31254, S31266, and S30815
+which shall be heat treated to 2100 °F [1150 °C] and 1920 °F
+[1050 °C] respec
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_7632
+. .
+. . .
+. . .
+S31254
+0.020
+1.00
+0.030
+0.010
+0.80 max
+17.5–18.5
+19.5–19.5
+6.0–6.5
+. . .
+. . .
+. . .
+Cu 0.50–1.00
+N 0.18–0.25
+. . .
+S30815 0.05–0.10
+0.80
+0.040
+0.030
+1.40–2.00
+10.0–12.0
+20.0–22.0
+. . .
+. . .
+. . .
+0.03–0.08
+N 0.14–0.20
+. . .
+S31725
+0.030
+2.00
+0.045
+0.030
+1.00 max
+13.5–17.5
+18.0–20.0
+4.0–5.0
+. . .
+. . .
+. . .
+N 0.020 max
+. . .
+S31726
+0.030
+2.00
+0.045
+0.030
+1.00 
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_7633
+.0
+4.0–5.0
+. . .
+. . .
+. . .
+N 0.020 max
+. . .
+S31726
+0.030
+2.00
+0.045
+0.030
+1.00 max
+14.5–17.5
+17.0–20.0
+4.0–5.0
+. . .
+. . .
+. . .
+N 0.10–0.20
+. . .
+S34565
+0.030
+5.0–7.0
+0.030
+0.010
+1.00 max
+16.0–18.0
+23.0–25.0
+4.0–5.0
+. . .
+0.10
+max
+. . .
+N 0.40–0.60
+. . .
+N08367
+0.030
+2.00
+0.040
+0.030
+1.00 max
+23.5–25.5
+20.0–22.0
+6.0–7.0
+. . .
+. . .
+. . .
+Cu 0.75 max
+Ni 0.18–0.25
+. . .
+S20400
+0.030
+7.0–9.0
+0
+
+ID: ASME_2019_ASME_II_PART_A2__2019__md_6274
+ or outside diameter and schedule
+number or average wall thickness),
+3.1.6
+Length (speciﬁc or random) (Section 10),
+3.1.7
+End ﬁnish (Section on Ends of Speciﬁcation
+A 999/A 999M),
+3.1.8
+Optional requirements (Section 9), (Supple-
+mentary Requirements S1 to S8),
+3.1.9
+Test report required (Section on Certiﬁcation
+of Speciﬁcation A 999/A 999M),
+3.1.10
+Speciﬁcation designation, and
+3.1.11
+S
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_3142
+..
+Cu 1.50–2.50
+N 0.10–0.25
+F 65
+S32906
+0.030
+0.80–1.50
+0.030
+0.030
+0.80
+5.8–7.5
+28.0–30.0
+1.5–2.6
+...
+...
+Cu 0.80
+N 0.30–0.40
+F 66
+S32202
+0.030
+2.00
+0.040
+0.010
+1.00
+1.00–2.80
+21.5–24.0
+0.45
+...
+...
+N 0.18–0.26
+F 67
+S32506
+0.030
+1.00
+0.040
+0.015
+0.90
+5.5–7.2
+24.0–26.0
+3.0–3.5
+...
+...
+N 0.08–0.20
+W 0.05–0.30
+F 68
+S32304
+0.030
+2.50
+0.040
+0.0
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4039
+C) 
+--`,```,,,,,````,`,``,,`,,`,`-`-`,,`,,`,`,,`---
+
+
+---
+
+ASME BPVC.II.A-2019
+SA-232/SA-232M
+332
+9.2 Oil Tempered — The wire shall be uniform in quality
+and temper and shall not be wavy or crooked.
+9.3
+Each coil shall be one continuous length of wire
+properly coiled and ﬁrmly tied.
+9.4 No welds are permitted in the ﬁnished product and
+any welds made 
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4060
+ed. When
+desired, one or more of these supplementary requirements may
+be speciﬁed in the order.
+1.3 This speciﬁcation does not cover cast welding ﬁttings or
+ﬁttings machined from castings. Cast steel welding ﬁttings are
+governed by Speciﬁcations A216/A216M and A217/A217M.
+1.4 This speciﬁcation is expressed in both inch-pound units
+and in SI units. However, unless the order speciﬁes 
+
+=== GRAPH ONLY RETRIEVAL ===
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4042
+der is placed. The purchaser
+shall have the right to perform any of the inspections and
+tests set forth in this speciﬁcation when such inspections
+and tests are deemed necessary to assure that the material
+conforms to prescribed requirements.
+12.
+Rejection and Rehearing
+12.1
+Unless otherwise speciﬁed, any rejection based
+on tests made in accordance with these speciﬁcations s
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_6484
+ S1 to S5, and the heat number or
+the manufacturer’s number by which the heat can be identiﬁed.
+Indentation stamping, instead of stenciling, will be permitted
+only with the written approval of the purchaser.
+14.2 For FP91, additional marking shall include the appro-
+priate Type.
+SUPPLEMENTARY REQUIREMENTS
+One or more of the following supplementary requirements shall apply only w
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4049
+2050
+2240
+C
+0.60
+2030
+2220
+C
+0.65
+2010
+2200
+C
+0.70
+2000
+2160
+C
+0.80
+1980
+2140
+C
+0.90
+1960
+2120
+C
+1.00
+1940
+2100
+C
+1.10
+1920
+2080
+C
+1.20
+1900
+2060
+C
+1.40
+1860
+2020
+C
+1.60
+1820
+1980
+C
+1.80
+1800
+1960
+C
+2.00
+1780
+1930
+C
+2.20
+1750
+1900
+C
+2.50
+1720
+1860
+45
+2.80
+1680
+1830
+45
+3.00
+1660
+1800
+45
+3.50
+1620
+1760
+45
+4.00
+1580
+1720
+40
+4.50
+1560
+1680
+40
+5.00
+1520
+1640
+40
+5.50
+1480
+
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4068
+oy Steel Elec-
+trodes and Fluxes for Submerged Arc Welding
+A5.28/A5.28M Speciﬁcation for Low-Alloy Steel Elec-
+trodes for Gas Shielded Arc Welding
+A5.29/A5.29M Low-Alloy Steel Electrodes for Flux Cored
+Arc Welding
+3. Ordering Information
+3.1 See Speciﬁcation A960/A960M.
+4. General Requirements
+4.1 Product furnished to this speciﬁcation shall conform to
+the requirements of Speciﬁcation A96
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4062
+d in each
+system may not be exact equivalents; therefore, each system
+shall be used independently of the other. Combining values
+from the two systems may result in non-conformance with the
+standard.
+1.6 This international standard was developed in accor-
+dance with internationally recognized principles on standard-
+ization established in the Decision on Principles for the
+Developme
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_1968
+8–0.13
+1109
+0.08–0.13
+0.60–0.90
+0.040
+0.08–0.13
+1110
+0.08–0.13
+0.30–0.60
+0.040
+0.08–0.13
+1116
+0.14–0.20
+1.10–1.40
+0.040
+0.16–0.23
+1117
+0.14–0.20
+1.00–1.30
+0.040
+0.08–0.13
+1118
+0.14–0.20
+1.30–1.60
+0.040
+0.08–0.13
+1119
+0.14–0.20
+1.00–1.30
+0.040
+0.24–0.33
+1132
+0.27–0.34
+1.35–1.65
+0.040
+0.08–0.13
+1137
+0.32–0.39
+1.35
+
+ID: ASME_2019_ASME_II_PART_A2__2019__md_7074
+−0.005
++0.01
+A This table does not apply to heat analysis.
+B Product analysis limits for cobalt under 0.05% have not been
+established and the producer should be consulted for those limits.
+Copyright ASME International (BPVC) 
+--`,``,``,,`,`,,````,`,``,,,`-`-`,,`,,`,`,,`---
+
+
+---
+
+ASME BPVC.II.A-2019
+SA-961/SA-961M
+1453
+TABLE 2
+PRODUCT ANALYSIS TOLERANCES FOR CARBON AND LOW ALLOY ST
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_6644
+n.
+21.1.2 The other principal feature of the machine is
+a ﬁxture (See Fig. 10) designed to support a test specimen
+as a simple beam at a precise location. The ﬁxture is
+arranged so that the notched face of the specimen
+
+=== BOTH RETRIEVED ===
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4069
+ciﬁcation shall conform to
+the requirements of Speciﬁcation A960/A960M, including any
+supplementary requirements that are indicated in the purchase
+order. Failure to comply with the requirements of Speciﬁcation
+A960/A960M constitutes non-conformance with this speciﬁ-
+cation. In case of a conﬂict between the requirements of this
+speciﬁcation and Speciﬁcation A960/A9
+
+ID: ASME_2019_ASME_II_PART_A1__2019__md_4044
+d in the purchase order or contract,
+a manufacturer’s or supplier’s certiﬁcation shall be fur-
+nished to the purchaser that the material was manufactured,
+sampled, tested, and inspected in accordance with this spec-
+iﬁcation and has been found to meet the requirements.
+When speciﬁed in the purchase order or contract, a report
+of the test results shall be furnished.
+13.2
+The certiﬁc
