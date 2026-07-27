@@ -18,7 +18,11 @@ outputs/
 *.sqlite
 *.db
 *.pkl
-E Books Updated_md/
+
+# Ignore everything in E Books Updated_md EXCEPT specific folders
+E Books Updated_md/*
+!E Books Updated_md/ABS Standards/
+!E Books Updated_md/ASME 2019/
 
 # Reports (can be regenerated)
 comparison_report.json
