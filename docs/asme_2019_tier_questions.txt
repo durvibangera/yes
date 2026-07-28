@@ -1,0 +1,66 @@
+Level 1 — Single-Hop (Traditional RAG should ace these)
+What is the purpose of QW-200?
+What are F-Numbers used for?
+What information is contained in QW-420?
+Which section defines P-Numbers?
+What is SA-240?
+What material does SA-312 specify?
+Which specification covers carbon steel forgings for piping?
+Which section discusses groove weld test positions?
+Which article contains welding procedure qualification requirements?
+What is the purpose of SA-335?
+Level 2 — Two-Hop Questions
+A component is manufactured from SA-240 stainless steel. Which section of ASME IX should be consulted to determine its base metal grouping?
+Which material specification would you first consult before determining welding qualification variables for a seamless carbon steel pipe?
+Explain how SA material specifications relate to P-Number assignments.
+Which qualification variables depend on the selected base material?
+Which document specifies the material properties and which document specifies how that material is welded?
+Trace the relationship between SA-182 and QW-420.
+If SA-335 alloy pipe is selected, what additional ASME IX information is needed before qualifying a welding procedure?
+Which sections determine filler metal compatibility with a selected base metal?
+How are welding qualification variables connected to material specifications?
+What information from ASME II must be known before preparing a WPS?
+Level 3 — Multi-Hop Reasoning
+A pressure vessel is fabricated using SA-240 stainless steel plates and welded using GTAW. Describe the complete workflow from selecting the material specification through welding procedure qualification.
+Explain every step required before a welder may weld SA-106 pipe according to the provided documents.
+Trace the complete dependency chain from choosing SA-182 forgings to qualifying the welder performing the weld.
+A welding engineer selects SA-387 pressure vessel plate. Which sections across all three documents determine whether production welding is permitted?
+Build the decision path for qualifying a new WPS for an alloy steel pressure vessel.
+Starting from SA-335 alloy pipe, identify every document section that contributes to successful welding qualification.
+Describe how base metal selection influences P-Numbers, welding variables, qualification tests, and welder qualification.
+Explain how changing from SA-106 carbon steel to SA-240 stainless steel propagates through the qualification process.
+Which document governs material selection, which governs grouping, and which governs welder qualification?
+Construct the complete dependency graph from raw material selection to qualified production welding.
+Level 4 — Cross-Document Questions
+Compare the responsibilities of ASME II and ASME IX during fabrication.
+Which ASME II specifications are most likely to reference materials grouped together under the same P-Number?
+Explain why ASME IX does not independently define every material specification.
+How do SA specifications become meaningful within welding qualification?
+Describe the interaction between material chemistry and welding qualification requirements.
+Which document should be consulted first when selecting filler metal?
+Explain how SA-240 and QW-430 together determine filler metal selection.
+How do material specifications influence essential variables?
+Which document determines allowable material properties, and which determines acceptable welding procedures?
+Describe the information flow from ASME II to ASME IX during fabrication planning.
+Level 5 — Graph-Oriented Questions
+Starting from SA-240, identify every connected concept reachable within two relationship hops.
+Which SA specifications ultimately connect to F-Number classifications?
+Find all paths connecting SA-182 to welding performance qualification.
+Which nodes act as bridges between material specifications and welder qualifications?
+Build the shortest dependency path between SA-106 and QW-350.
+Which concepts have the highest number of incoming references across all three documents?
+Starting from "Base Metal Groupings," enumerate all downstream concepts affected by changing the selected material.
+Which qualification variables indirectly depend on SA material selection?
+Identify every document section that can influence filler metal selection.
+Build a dependency graph showing Material Specification to Production Welding.
+Level 6 — Engineering Scenario Questions
+A fabricator chooses SA-335 alloy steel pipe for a high-temperature vessel. Describe every qualification step required before production welding begins.
+An engineer changes the base material from SA-106 to SA-240 after the WPS has already been qualified. Which parts of the qualification process must be reviewed?
+A welder qualified on one P-Number material must weld another SA specification. Explain how the documents determine whether requalification is required.
+During fabrication, the selected filler metal changes. Describe every document section that must be revisited.
+A company introduces a new stainless steel specification into production. Explain the complete qualification workflow.
+Trace the entire engineering workflow from selecting SA-387 plate through final welder qualification.
+A pressure vessel contains both carbon steel and stainless steel components. Explain how the material specifications influence welding qualification for each.
+A WPS is written before the final material grade is selected. Identify all information that remains unknown until the material specification is finalized.
+A welding procedure passes qualification testing, but the production material changes to a different SA specification. Explain the consequences across all three documents.
+Construct a complete end-to-end workflow beginning with Selecting a pressure-vessel material to Beginning production welding.

@@ -1,0 +1,71 @@
+# Tier 1 — Single-hop
+1. What is the definition of a crewboat?
+2. What is a Category A machinery space?
+3. What is the purpose of Part 7?
+4. What is a dead craft condition?
+5. What is the difference between freeboard deck and strength deck?
+6. What are the required sections in Part 5 for passenger craft?
+7. What is a significant wave height?
+8. What is a blackout?
+9. What is an industrial personnel member?
+10. What is a passenger craft?
+
+# Tier 2 — Two-hop
+11. Which Parts contain requirements related to fire protection, and what aspects of fire protection does each Part cover?
+12. Which chapter specifies machinery certification requirements and where are machinery surveys described?
+13. If a craft is made from FRP, which Parts govern its material fabrication and structural requirements?
+14. Which Parts discuss steering equipment, and what is covered in each?
+15. Where would you find requirements for bilge systems during construction versus during inspection after construction?
+16. Which sections describe propulsion equipment versus propulsion surveys?
+17. Which Parts must be consulted to design and later inspect a rudder?
+18. Which documents govern electrical installations during construction and during passenger craft operation?
+19. Which Parts discuss aluminum construction and where are bi-material joints covered?
+20. Which chapters must be consulted before approving propulsion shafting?
+
+# Tier 3 — Multi-hop
+21. A 30-meter aluminum passenger craft is being constructed. Which Parts collectively specify the material requirements, hull design, machinery installation, passenger requirements, and future survey obligations?
+22. Explain the complete approval workflow for a new propulsion system from certification through surveys after construction.
+23. Which Parts collectively govern the design, testing, certification, and inspection of a fuel piping system?
+24. A craft uses FRP hull construction and waterjet propulsion. Which Parts contain requirements affecting this craft from material selection through operation?
+25. Which Parts should an engineer consult before approving an electrical installation inside a machinery space?
+26. How do classification requirements interact with machinery certification and hull construction requirements?
+27. Trace all rule dependencies for installing steering gear on a passenger craft.
+28. Which Parts would an inspector use after construction to verify systems originally designed in Part 4?
+29. Explain every rule category involved in constructing an aluminum high-speed passenger craft.
+30. Which Parts influence anchor selection, installation, and inspection throughout the craft lifecycle?
+
+# Tier 4 — Constraint reasoning
+31. A craft is less than 24 meters long, carries passengers, uses waterjets, and is constructed using aluminum. Which specialized rule sections become applicable?
+32. A craft uses FRP construction and later undergoes major repair. Which Parts govern both the original construction and repair procedures?
+33. Which requirements differ when machinery is located inside a Category A machinery space versus another machinery space?
+34. If a craft operates in low air temperatures, which Parts introduce additional design or material considerations?
+35. What additional requirements arise when designing a passenger craft compared with a cargo craft?
+36. How would survey requirements change after replacing a propeller during maintenance?
+37. Which rulebooks would be affected if the propulsion system changed from conventional shafting to waterjets?
+38. If aluminum is joined to steel, which Parts contain relevant guidance and why?
+39. Which Parts govern both corrosion testing and protective coatings?
+40. Explain which Parts become relevant when designing for unrestricted service versus restricted service.
+
+# Tier 5 — Long reasoning (5–10 hops)
+41. A company is designing a 35-meter FRP passenger craft with waterjet propulsion for unrestricted service. Produce the complete chain of Parts and Chapters that engineers must follow from initial classification through surveys after construction.
+42. An inspector discovers corrosion around an aluminum-steel transition joint during a special survey. Which Parts should be referenced to determine: material requirements, structural requirements, repair guidance, survey procedures, classification implications
+43. Trace every rule dependency involved in replacing a rudder assembly on a passenger craft.
+44. Starting from "Passenger Craft", identify every related rule section across all Parts that affects: stability, hull, machinery, electrical, fire safety, inspections
+45. Which Parts collectively determine whether a craft can legally enter service after construction?
+46. Explain every document required to classify, construct, inspect, maintain, and recertify a high-speed craft throughout its lifecycle.
+47. Build the dependency graph connecting: Classification, Materials, Hull, Machinery, Passenger Rules, Surveys
+48. If a craft changes from cargo service to passenger service, which rule sections across every Part require reevaluation?
+49. Trace all dependencies from "Classification" to "Fire Extinguishing Systems."
+50. Starting from an aluminum plate, explain every rule section encountered before the finished craft enters operational service.
+
+# Tier 6 — GraphRAG-only (very difficult)
+51. Identify every Part that references machinery certification either directly or indirectly, and explain how those references connect.
+52. Which concepts act as bridges between Part 1, Part 3, Part 4, Part 5, and Part 7?
+53. Find all entities related to "Passenger" and explain how they connect across the rulebooks.
+54. Starting from "Fire", construct the complete graph of related systems, materials, inspections, machinery, and passenger requirements.
+55. Which topics appear in at least three different Parts, and what role does each Part play?
+56. What is the shortest dependency chain between Aluminum Welding and Passenger Surveys?
+57. Starting from "Waterjets", traverse every connected requirement until reaching survey procedures.
+58. Find all concepts that connect machinery spaces with fire safety.
+59. Which entities have the highest degree (most relationships) across the corpus?
+60. Build a knowledge graph explaining how "Classification" propagates requirements into every subsequent Part.
