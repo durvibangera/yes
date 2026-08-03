@@ -23,6 +23,7 @@ outputs/
 E Books Updated_md/*
 !E Books Updated_md/ABS Standards/
 !E Books Updated_md/ASME 2019/
+!E Books Updated_md/DIN/
 
 # Reports (can be regenerated)
 comparison_report.json
